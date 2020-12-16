@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: crimson;
+}
+img{
+    transition: transform 1.5s;
+    width: 200px;
+    height :200px;
+}
+img:hover{
+    transform: rotate(36deg);
+}
